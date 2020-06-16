@@ -10,3 +10,5 @@ Because when I shout: "Nala, Zazou, dinner!" they're running towards me at high 
 Some stories are very hard to add to. 
 They are born short but complete. Like beautiful babies. 
 What is the point of a beautiful baby? I prefer ugly alien-looking horrorbabies. They can only improve.
+
+![cat](cat.jpg)
